@@ -1,0 +1,15 @@
+body{
+    background-color: #355764;
+    padding: 0px;
+    margin: 0px;
+}
+#home_page{
+    background-color: #D4F6CC;
+    top: 25vh;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+    height: 25vh;
+    width: 50px;
+
+}
